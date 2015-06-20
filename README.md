@@ -1,7 +1,8 @@
-YaCy Monitoring Plugin for Munin
+#Yacy-Minin-plugin
+A [YaCy](http://yacy.net) monitoring plugin for [Munin](http://munin-monitoring.org/)
 
-Requirements
+##Requirements
 
-* XML::Smart ;
-* LWP ;
-* YacY
+  * XML::Smart
+  * LWP
+  * YacY
